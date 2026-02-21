@@ -14,7 +14,7 @@ renderRamadanHero("Ramadan Prompting Nights","Join Now") -> "<section><h1>Ramada
 
 ---
 
-## Prompt
+## My Prompt
 
 
 ---

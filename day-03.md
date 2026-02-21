@@ -14,7 +14,7 @@ tasbihSessionStats(100,45) -> {total:100,remaining:55}
 
 ---
 
-## Prompt
+## My Prompt
 
 **Goal:** Create a Tasbih Counter  
 **Constraints:** You MUST use the input. It should subtract current from target. Avoid complex logic. Write single-line arrow-function, Without spaces  

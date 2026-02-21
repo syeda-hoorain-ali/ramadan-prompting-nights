@@ -14,7 +14,7 @@ nextPrayerIndex(700,[300,600,900,1100]) -> 2
 
 ---
 
-## Prompt
+## My Prompt
 
 **Goal:** Create a JavaScript function `nextPrayerIndex(currentMinutes: number, sortedPrayerMinutes: number[]) -> number` that will return the index of the next prayer, or zero for next day.
 
