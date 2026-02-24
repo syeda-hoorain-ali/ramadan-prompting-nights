@@ -16,10 +16,10 @@ mergeCardProps({title:'Day 1',badge:'Easy'},{badge:'Done'}) -> {title:'Day 1',ba
 
 ## My Prompt
 
-**Goal:** Create a React Card-Props Merger
-**Constraints:** You should merge the input, custom values MUST take priority. Avoid white-spaces, write single-line arrow function.
-**Edge Cases:** Handle empty objects. If no custom props, return default
-**Output Format:** The final output is the merged object.
+**Goal:** Create a React Card-Props Merger  
+**Constraints:** You should merge the input, custom values MUST take priority. Avoid white-spaces, write single-line arrow function.  
+**Edge Cases:** Handle empty objects. If no custom props, return default  
+**Output Format:** The final output is the merged object.  
 
 ## Generated Code
 
