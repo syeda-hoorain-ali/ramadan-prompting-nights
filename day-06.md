@@ -35,5 +35,5 @@ Efficiency total: 77
 
 Attempts: 1  
 Your best: 100 points on first attempt  
-Submitted at 10:20 am  
+Submitted at 10:20 pm  
 #4 on Leaderboard with 593 points  
