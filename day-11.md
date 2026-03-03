@@ -16,22 +16,27 @@ validateSignup({name:'',email:'a',password:'123'}) -> ['name required','invalid 
 
 ## My Prompt
 
+**Goal:** Create a Javascript Signup Validation Engine.  
+**Constraints:** You MUST take 'user' object as input. Avoid white-spaces, write single-line arrow function.  
+**Edge Cases:** Handle missing values.  
+**Output Format:** It should return: ['name required','invalid email','password too short']  
 
 ## Generated Code
 
 ```js
+const validateSignup=(user)=>[!user?.name?'name required':'',!/@/.test(user?.email||'')?'invalid email':'',user?.password?.length>=8?'':'password too short'].filter(Boolean)
 ```
 
-<!-- ---
+---
 
-Prompt tokens: 66  
-Code tokens: 11  
-Efficiency total: 77  
+Prompt tokens: 58  
+Code tokens: 21  
+Efficiency total: 79  
 
 Attempts: 1  
 Your best: 100 points on first attempt  
-Submitted at 8:40 am  
-#4 on Leaderboard with 993 points   -->
+Submitted at 7:06 am on 3rd March  
+#7 on Leaderboard with 1093 points  
 
 ---
 
@@ -72,3 +77,9 @@ Submitted at 8:40 am
     **Output Format:** It should return: ['name required','invalid email','password too short']
     ```
 
+6. ```markdown
+    **Goal:** Create a Javascript Signup Validation Engine
+    **Constraints:** You MUST take 'user' object as input. Avoid white-spaces, write single-line arrow function
+    **Edge Cases:** Handle missing values
+    **Output Format:** It should return: ['name required','invalid email','password too short']
+    ```
