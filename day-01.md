@@ -15,13 +15,16 @@ renderRamadanHero("Ramadan Prompting Nights","Join Now") -> "<section><h1>Ramada
 ---
 
 ## My Prompt
-
+**Goal:** Create a function to build a landing page component.  
+**Constraints:** You MUST use an h1 for the heading and a button for the action. Should use template literals and should not have any attributes in HTML tags.  
+**Edge Cases:** Handle missing input gracefully. Avoid white spaces.  
+**Output Format:** Return a single string output within a semantic section container.  
 
 ---
 
-Prompt tokens:     
-Code tokens:   
-Efficiency total:  
+Prompt tokens: 85  
+Code tokens: 16  
+Efficiency total: 101
 
 Attempts: 3-4    
 Your best: 99 points at last attempt 

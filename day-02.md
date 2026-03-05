@@ -28,9 +28,9 @@ nextPrayerIndex(700,[300,600,900,1100]) -> 2
 
 ---
 
-Prompt tokens: 170  
+Prompt tokens: 141  
 Code tokens: 42 
-Efficiency total: 212  
+Efficiency total: 183  
 
 Attempts: 3  
 Your best: 94 points at first attempt  
