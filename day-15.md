@@ -36,7 +36,7 @@ Efficiency total: 65
 Attempts: 1  
 Your best: 100 points  
 Submitted at 7:50 am  
-#3 on Leaderboard with 1393 points  
+#3 on Leaderboard with 1493 points  
 
 ---
 
