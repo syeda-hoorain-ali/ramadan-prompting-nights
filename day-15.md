@@ -17,7 +17,7 @@ taskCrudPayload({title:'Review PR'}) -> {title:'Review PR',done:false}
 ## My Prompt
 
 **Goal:** Create a Task Payload Normalizer.  
-**Constraints:** You MUST take object as input. Avoid white-spaces, write single-line arrow function. 
+**Constraints:** You MUST take object as input. Avoid white-spaces, write single-line arrow function.  
 **Edge Cases:** Handle missing done fields, returrn false.  
 **Output Format:** It should return object in this order: {done,title}.  
 
