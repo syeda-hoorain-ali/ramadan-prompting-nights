@@ -18,7 +18,7 @@ composeServicesSummary({services:{api:{},web:{},db:{}}}) -> ['api','db','web']
 
 **Goal:** Create a Docker Compose Service Summary Generator.  
 **Constraints:** You MUST take object as input with services field. Avoid white-spaces, write single-line arrow function.  
-**Edge Cases:** Handle missing vaules, use default.  
+**Edge Cases:** Handle missing values, use default.  
 **Output Format:** It should return list of services names.  
 
 ## Generated Code
