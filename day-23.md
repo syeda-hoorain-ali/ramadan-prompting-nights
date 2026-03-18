@@ -24,7 +24,7 @@ queueRetryPlan(2,5,40) -> 20
 ## Generated Code
 
 ```js
-const revalidatePlan=(m)=>m==null?"cheap":m<=5?"realtime":m<=30?"balanced":"cheap"
+const queueRetryPlan = (attempt, base, maxCap) => Math.min(base * Math.pow(2, attempt), maxCap)
 ```
 
 ---
@@ -35,8 +35,8 @@ Efficiency total: 78
 
 Attempts: 1  
 Your best: 100 points  
-Submitted at 3:0 am at 19th March  
-#10 on Leaderboard with 2193 points  
+Submitted at 3:00 am on 19th March  
+#9 on Leaderboard with 2293 points  
 
 ---
 

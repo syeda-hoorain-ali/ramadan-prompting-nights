@@ -35,7 +35,7 @@ Efficiency total: 64
 
 Attempts: Infinite  
 Your best: 100 points  
-Submitted at 1:45 am at 19th March  
+Submitted at 1:45 am on 19th March  
 #10 on Leaderboard with 2193 points  
 
 ---
