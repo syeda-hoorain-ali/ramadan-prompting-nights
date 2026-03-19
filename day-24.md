@@ -16,10 +16,10 @@ notificationBatch([1,2,3,4,5],2) -> [[1,2],[3,4],[5]]
 
 ## My Prompt
 
-**Goal:** Create a Async Notification Batcher
+**Goal:** Create a Async Notification Batcher.  
 **Constraints:** You MUST take ids and batchSize as input. Avoid spaces, write arrow-function.  
-**Edge Cases:** Handle remaining ids
-**Output Format:** It should return arrays of chunks of ids
+**Edge Cases:** Handle remaining ids.  
+**Output Format:** It should return arrays of chunks of ids.  
 
 ## Generated Code
 
