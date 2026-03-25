@@ -1,6 +1,6 @@
 # 🌙 Ramadan Prompting Nights
 
-My personal submission journal for [Sir Asharib Ali's](https://github.com/asharibali) **Ramadan Prompting Nights** challenge — 30 nights, 30 real-world coding scenarios, completed 30/30.
+My personal submission journal for [Sir Asharib Ali's](https://github.com/asharibali) [**Ramadan Prompting Nights**](https://github.com/AsharibAli/ramadan-prompting-nights/) challenge — 30 nights, 30 real-world coding scenarios, completed 30/30.
 
 <div align="center">
 
